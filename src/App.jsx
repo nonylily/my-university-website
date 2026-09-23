@@ -232,7 +232,7 @@ function App() {
         </div>
 
         <p>
-          Made  <i className="fa-solid fa-heart"></i> by Emmanuel Ukachi
+          designed by <i className="fa-solid fa-heart"></i> CHINONYE LILIAN ONYEULOR
         </p>
       </section>
     </>
